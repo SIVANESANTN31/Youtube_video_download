@@ -35,16 +35,13 @@ Perfect for **beginners and students** who want to try Python projects on their 
    * \[Linux] → `sudo apt install ffmpeg`
 
 3. **Create a Python script**
-   Save the following code in a file, e.g. `yt_video_download.py`:
+   Save the following code in a file, e.g. `yt_video_download.py`: copy the code from the yt_video_download.py
 
-   ```python
 4. **Run the script in VS Code Terminal**
 
    ```sh
    python yt_video_download.py
    ```
-
----
 
 ## 🎬 Result
 
